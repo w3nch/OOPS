@@ -8,7 +8,7 @@ This project demonstrates **core Object-Oriented Programming (OOP) concepts in P
 - **Static methods**
 - **Object relationships and multiple inheritance**
 
-
+![OOP Diagram](Diagram.jpg)
 ## Classes Overview
 
 ### 1. `Car` (Base Class)
