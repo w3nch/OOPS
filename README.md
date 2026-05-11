@@ -8,7 +8,6 @@ This project demonstrates **core Object-Oriented Programming (OOP) concepts in P
 - **Static methods**
 - **Object relationships and multiple inheritance**
 
----
 
 ## Classes Overview
 
